@@ -21,34 +21,16 @@ git clone https://github.com/YOUR-USERNAME/pacman-animation.git
 cd pacman-animation
 start index.html  # Or open in your preferred browser
 
-
-# 📌 Roadmap
-Status	      Feature	         Priority
-🔄	PC        responsiveness	 High
-⏳	Score     counter	         Medium
-❌	Keyboard  controls	       Low
-❌	Fruit     bonuses	         Low
-
-
 # 🌟 Coming Soon
 + [Added] Basic Pacman movement
 - [Remaining] Ghost AI patterns
 + [Added] Dot collision detection
-
-
-# 🎨 Color Reference
-Element	Hex
-Pacman	#FFFF00
-Blinky	#FF0000
-Dots	#FFFFFF
-Maze	#2121FF
 
 # 💻 Tested on:
 Chrome 120+ | Firefox 115+ | Edge 110+
 
 # 📅 Last Updated:
 2024-03-15
-
 
 # ✏️ Created by:
 josglf26! | Inspired by the 1980 Namco classic
