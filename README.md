@@ -1,6 +1,8 @@
 # 🕹️ Pacman CSS Animation
 
-![Pacman Animation](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmI4Y3VjazQwbzRiaTN5cWVxdW9vYzd6OXp5aDJ0c3IwbHI4M28ycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OCudTk2nQ9NqFxpu5a/giphy.gif) 
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmI4Y3VjazQwbzRiaTN5cWVxdW9vYzd6OXp5aDJ0c3IwbHI4M28ycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OCudTk2nQ9NqFxpu5a/giphy.gif" alt="Pacman Animation">
+</p>
 
 # 🎯 Features
 - Pure CSS Pacman with authentic chomping animation
