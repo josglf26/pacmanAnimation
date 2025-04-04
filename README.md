@@ -1,6 +1,6 @@
 # 🕹️ Pacman CSS Animation
 
-![Pacman Animation]([https://media.giphy.com/media/placeholder/pacman.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmI4Y3VjazQwbzRiaTN5cWVxdW9vYzd6OXp5aDJ0c3IwbHI4M28ycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OCudTk2nQ9NqFxpu5a/giphy.gif))  
+![Pacman Animation]([https://media.giphy.com/media/placeholder/pacman.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmI4Y3VjazQwbzRiaTN5cWVxdW9vYzd6OXp5aDJ0c3IwbHI4M28ycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OCudTk2nQ9NqFxpu5a/giphy.gif])  
 
 #🎯 Features
 - Pure CSS Pacman with authentic chomping animation
@@ -9,25 +9,18 @@
 - 20-second perfect gameplay loop
 - Currently optimized for 1366×768 laptop displays
 
-## 🖥️ Display Note
+# 🖥️ Display Note
 **Made for my laptop screen.** If animation appears clipped:  
 `Ctrl/Cmd + -` to zoom out  
 *(Responsive version for all screens coming soon!)*
 
-# 🛠️ Tech Stack
-<!-- Example snippet showing your tech -->
-<div class="pacman"></div>
-<style>
-  @keyframes chomp { 0% { transform: rotate(0deg); } }
-</style>
-
-#🚀 Installation
+# 🚀 Installation
 git clone https://github.com/YOUR-USERNAME/pacman-animation.git
 cd pacman-animation
 start index.html  # Or open in your preferred browser
 
 
-#📌 Roadmap
+# 📌 Roadmap
 Status	      Feature	         Priority
 🔄	PC        responsiveness	 High
 ⏳	Score     counter	         Medium
@@ -35,7 +28,7 @@ Status	      Feature	         Priority
 ❌	Fruit     bonuses	         Low
 
 
-#🌟 Coming Soon
+# 🌟 Coming Soon
 + [Added] Basic Pacman movement
 - [Remaining] Ghost AI patterns
 + [Added] Dot collision detection
@@ -55,5 +48,5 @@ Chrome 120+ | Firefox 115+ | Edge 110+
 2024-03-15
 
 
-✏️ Created by:
+# ✏️ Created by:
 josglf26! | Inspired by the 1980 Namco classic
