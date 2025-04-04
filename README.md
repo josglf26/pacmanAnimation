@@ -16,11 +16,6 @@
 `Ctrl/Cmd + -` to zoom out  
 *(Responsive version for all screens coming soon!)*
 
-# 🚀 Installation
-git clone https://github.com/YOUR-USERNAME/pacman-animation.git
-cd pacman-animation
-start index.html  # Or open in your preferred browser
-
 # 🌟 Coming Soon
 + [Added] Basic Pacman movement
 - [Remaining] Ghost AI patterns
