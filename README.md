@@ -25,7 +25,7 @@
 Chrome 120+ | Firefox 115+ | Edge 110+
 
 # 📅 Last Updated:
-2024-03-15
+2024-03-28
 
 # ✏️ Created by:
 josglf26! | Inspired by the 1980 Namco classic
